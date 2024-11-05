@@ -21,8 +21,8 @@ Este repositório contém a resolução da primeira lista avaliativa de atividad
 -☕ **Java**
 <br>
 <br>
-<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon">
-<img align="right" alt="Java Img" width="200" height="200" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif">
+<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="50" height="50" alt="Java Icon">
+<img align="left" alt="Java Img" width="200" height="200" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif">
 
 ---
 
