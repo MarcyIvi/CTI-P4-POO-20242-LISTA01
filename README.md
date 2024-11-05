@@ -20,6 +20,7 @@ Este repositório contém a resolução da primeira lista avaliativa de atividad
 
 -☕ **Java**
 <br>
+<br>
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon">
 
 ---
