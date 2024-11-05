@@ -16,11 +16,11 @@ Este repositório contém a resolução da primeira lista avaliativa de atividad
 - 🐇 [Sally Gosson Viana Colombo](https://github.com/sallygosson)
 - 🐎 [Francisco Israel Alves Barbosa](https://github.com/alvesisrael221)
 
-### Linguagem Utilizada:
+### 🖥️ Linguagem Utilizada 🖱️:
 
-- **Java**
+-☕ **Java**
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon">
 
-
+---
 
 
