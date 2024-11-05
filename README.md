@@ -10,6 +10,7 @@ As atividades trabalhadas durante a disciplina, foram realizadas com o intuito d
 
 - **Professor:** Roger Moura do Sacramento
 - **Disciplina:** Programação Orientada a Objetos (POO)
+- **Instuição:** IFCE Campus Maranguape
   
 ### 👾 Integrantes:
 - 🐱 [Marcella Ivina de Araújo Gondim](https://github.com/MarcyIvi)
