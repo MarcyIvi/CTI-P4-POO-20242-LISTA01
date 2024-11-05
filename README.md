@@ -5,6 +5,7 @@ Este repositório contém a resolução da primeira lista avaliativa de atividad
 
 As atividades trabalhadas durante a disciplina, foram realizadas com o intuito de melhor aprendizagem e execução da teoria aplicada em sala de aula. Além das soluções em Java, o repositório também explora conceitos introdutórios de algoritmos, apresentados na apostila da disciplina, abordando tópicos como declaração de variáveis, atribuição de valores e operações de entrada e saída, sendo conceitos fundamentais para a criação de programas robustos e para entender como diferentes linguagens de programação tratam a construção de algoritmos, tanto simples quanto complexos.
 
+---
 ## 📝Dados do Trabalho:
 
 - **Professor:** Roger Moura do Sacramento
