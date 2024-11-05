@@ -10,7 +10,7 @@ Este repositório contém a resolução da primeira lista avaliativa de atividad
   
 ---
 
-### Integrantes:
+### 👾 Integrantes:
 - 🐱 [Marcella Ivina de Araújo Gondim](https://github.com/MarcyIvi)
 - 🐑 [Hosana Clara de Brito Soares Bezerra](https://github.com/hosanasoaress)
 - 🐇 [Sally Gosson Viana Colombo](https://github.com/sallygosson)
