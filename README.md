@@ -11,8 +11,6 @@ As atividades trabalhadas durante a disciplina, foram realizadas com o intuito d
 - **Professor:** Roger Moura do Sacramento
 - **Disciplina:** Programação Orientada a Objetos (POO)
   
----
-
 ### 👾 Integrantes:
 - 🐱 [Marcella Ivina de Araújo Gondim](https://github.com/MarcyIvi)
 - 🐑 [Hosana Clara de Brito Soares Bezerra](https://github.com/hosanasoaress)
@@ -27,6 +25,6 @@ As atividades trabalhadas durante a disciplina, foram realizadas com o intuito d
 
 <img align="rigth" alt="Java Img" width="150" height="150" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif">
 
+<br>
 
-
-
+---
