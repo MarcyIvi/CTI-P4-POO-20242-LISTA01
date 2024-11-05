@@ -22,7 +22,8 @@ Este repositório contém a resolução da primeira lista avaliativa de atividad
 <br>
 <br>
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon">
-<img align="right" alt="Gatito Img" width="100" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDeathopex&psig=AOvVaw0BLqutNoM5F-QEjBgGLFLr&ust=1730914017686000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC69a3bxYkDFQAAAAAdAAAAABAJ" >
+<img align="right" alt="Gatito Img" width="100" height="100" src="![image](https://github.com/user-attachments/assets/7ad52ba1-7412-41b3-92ee-58fff49aa672)
+" >
 
 ---
 
